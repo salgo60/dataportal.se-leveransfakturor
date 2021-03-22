@@ -6,8 +6,8 @@
 
 
 GITHUB Topics: 
-* datasets/760_1544
-* DIGG
-* Fakturor
-* SNI
+* datasets/760_1544 --> [datasets-760-1544](https://github.com/topics/datasets-760-1544)
+* DIGG -> [digg](https://github.com/topics/digg)
+* Fakturor -> [fakturor](https://github.com/topics/fakturor)
+* SNI -> [naringsgrensindelning](https://github.com/topics/naringsgrensindelning)
 
