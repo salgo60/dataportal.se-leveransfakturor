@@ -11,6 +11,8 @@ GITHUB Topics:
 * Fakturor -> [fakturor](https://github.com/topics/fakturor)
 * SNI -> [naringsgrensindelning](https://github.com/topics/naringsgrensindelning)
 
+![](https://community.dataportal.se/assets/uploads/files/1616411024694-51fa227d-7368-4f34-9432-831440c1edc8-image-resized.png)
+
 2) DIGG leverantörsfakturor 2019 [sheet](https://docs.google.com/spreadsheets/d/15V9tWKbWCHBpz5S_3DXMRE3wa6wOdwE6nA92k_Gh6uY/edit#gid=988110800) - 96 miljoner
 3) DIGG leverantörsfakturor 2018 [sheet](https://docs.google.com/spreadsheets/d/1bThy7J7CvYD_HN6aMpmVzz0JCc9un0ifFFSv7e_wtZ0/edit#gid=988110800) - 32 miljoner
 
