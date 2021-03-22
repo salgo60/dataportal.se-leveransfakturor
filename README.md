@@ -15,10 +15,12 @@ GITHUB Topics:
 3) DIGG leverantörsfakturor 2018 [sheet](https://docs.google.com/spreadsheets/d/1bThy7J7CvYD_HN6aMpmVzz0JCc9un0ifFFSv7e_wtZ0/edit#gid=988110800) - 32 miljoner
 
 ### Metadata om datasetet
-* i [rdf](https://admin.dataportal.se/store/760/metadata/1544?recursive=dcat)
-
 Verkar saknas helt versionshantering och datum publicerad
 1) licens - finns - CC-0
 2) versionshantering - **saknas** hur hanteras om fel hittas och ny version laddas upp
 3) datum publicerad - **saknas** 
 4) dikussionsyta på GITHUB - **saknas**
+
+* [rdf](https://admin.dataportal.se/store/760/metadata/1544?recursive=dcat) av metadatat känns tomt
+
+![RDF](https://github.com/salgo60/dataportal.se-leveransfakturor/blob/main/image/rdf.png?raw=true)
