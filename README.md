@@ -13,3 +13,12 @@ GITHUB Topics:
 
 2) DIGG leverantörsfakturor 2019 [sheet](https://docs.google.com/spreadsheets/d/15V9tWKbWCHBpz5S_3DXMRE3wa6wOdwE6nA92k_Gh6uY/edit#gid=988110800) - 96 miljoner
 3) DIGG leverantörsfakturor 2018 [sheet](https://docs.google.com/spreadsheets/d/1bThy7J7CvYD_HN6aMpmVzz0JCc9un0ifFFSv7e_wtZ0/edit#gid=988110800) - 32 miljoner
+
+### Metadata om datasetet
+* i [rdf](https://admin.dataportal.se/store/760/metadata/1544?recursive=dcat)
+
+Verkar saknas helt versionshantering och datum publicerad
+1) licens - finns - CC-0
+2) versionshantering - **saknas** hur hanteras om fel hittas ch nu version laddas upp
+3) datum oubkicerad - **saknas** 
+4) diksussionyta poå GITHUB - **saknas**
