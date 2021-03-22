@@ -11,3 +11,5 @@ GITHUB Topics:
 * Fakturor -> [fakturor](https://github.com/topics/fakturor)
 * SNI -> [naringsgrensindelning](https://github.com/topics/naringsgrensindelning)
 
+2) DIGG leverantörsfakturor 2019 [sheet](https://docs.google.com/spreadsheets/d/15V9tWKbWCHBpz5S_3DXMRE3wa6wOdwE6nA92k_Gh6uY/edit#gid=988110800)
+3) DIGG leverantörsfakturor 2018 [sheet](https://docs.google.com/spreadsheets/d/1bThy7J7CvYD_HN6aMpmVzz0JCc9un0ifFFSv7e_wtZ0/edit#gid=988110800)
