@@ -19,6 +19,6 @@ GITHUB Topics:
 
 Verkar saknas helt versionshantering och datum publicerad
 1) licens - finns - CC-0
-2) versionshantering - **saknas** hur hanteras om fel hittas ch nu version laddas upp
-3) datum oubkicerad - **saknas** 
-4) diksussionyta poå GITHUB - **saknas**
+2) versionshantering - **saknas** hur hanteras om fel hittas och ny version laddas upp
+3) datum publicerad - **saknas** 
+4) dikussionsyta på GITHUB - **saknas**
