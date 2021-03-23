@@ -7,7 +7,7 @@
   * DIGG kostar > 200 miljoner och har lyckats med att skapa [2 dataset](https://tinyurl.com/DIGGdataset), enligt leverantörsfakturor lever datakonsulterna gott på DIGG men [varför levererar inte DIGG](https://community.dataportal.se/topic/60/beskrivning-%C3%B6ppna-data-fr%C3%A5n-digg/7)
 
 
-GITHUB Topics: 
+GITHUB Topics för detta GITHUB repository: 
 * datasets/760_1544 --> [datasets-760-1544](https://github.com/topics/datasets-760-1544)
 * DIGG -> [digg](https://github.com/topics/digg)
 * Fakturor -> [fakturor](https://github.com/topics/fakturor)
