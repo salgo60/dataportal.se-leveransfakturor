@@ -20,11 +20,11 @@ GITHUB Topics för detta GITHUB repository:
 
 ### Metadata om datasetet
 Verkar saknas helt versionshantering och datum publicerad
-1) licens - finns - CC-0
-2) versionshantering - **saknas** hur hanteras om fel hittas och ny version laddas upp
-  2-1) Google rekommenderar [persistenta identifierare och DOI till dataset](https://youtu.be/W-9HMaAi78g?t=2334) hur tänker DIGG hur refererar vi en version av detta data
-4) datum publicerad - **saknas** 
-5) dikussionsyta på GITHUB - **saknas**
+1. licens - finns - CC-0
+1. versionshantering - **saknas** hur hanteras om fel hittas och ny version laddas upp
+    1. Google rekommenderar [persistenta identifierare och DOI till dataset](https://youtu.be/W-9HMaAi78g?t=2334) hur tänker DIGG hur refererar vi en version av detta data
+1. datum publicerad - **saknas** 
+1. dikussionsyta på GITHUB - **saknas**
 
 * [rdf](https://admin.dataportal.se/store/760/metadata/1544?recursive=dcat) av metadatat känns tomt
 
